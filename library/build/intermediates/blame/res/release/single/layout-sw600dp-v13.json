@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\WorkSpace\\AndroidStudioProject\\MaterialDateTimePicker\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\WorkSpace\\AndroidStudioProject\\MaterialDateTimePicker\\library\\src\\main\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\JayChan\\Desktop\\MaterialDateTimePicker-master\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\JayChan\\Desktop\\MaterialDateTimePicker-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\JayChan\\Desktop\\MaterialDateTimePicker-master\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\JayChan\\Desktop\\MaterialDateTimePicker-master\\library\\src\\main\\res\\layout-sw600dp\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "G:\\WorkSpace\\AndroidStudioProject\\MaterialDateTimePicker\\library\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "G:\\WorkSpace\\AndroidStudioProject\\MaterialDateTimePicker\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
